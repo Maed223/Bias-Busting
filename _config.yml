@@ -28,7 +28,7 @@ twitter_username: mad223
 github_username:  maed223
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
